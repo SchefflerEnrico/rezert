@@ -29,7 +29,7 @@ class className extends JobRouter\Engine\Runtime\PhpFunction\RuleExecutionFuncti
             $this->setTableValue('subject', $row['BETREFF']);
         }
 
-        //comments
+        //comments  
 	}
 }
 ?>
