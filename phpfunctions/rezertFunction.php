@@ -28,6 +28,8 @@ class className extends JobRouter\Engine\Runtime\PhpFunction\RuleExecutionFuncti
             $this->setTableValue('category4', $row['KATEGORIE_4']);
             $this->setTableValue('subject', $row['BETREFF']);
         }
+
+        //comments
 	}
 }
 ?>
